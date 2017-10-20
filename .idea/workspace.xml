@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1931df76-4cbb-472c-9d74-6554181e0a52" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/controller/TestController.java" afterPath="$PROJECT_DIR$/src/main/java/com/controller/TestController.java" />
     </list>
     <ignored path="SpringWeb.iws" />
@@ -40,8 +39,8 @@
       <file leaf-file-name="TestController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/controller/TestController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31782946">
-              <caret line="16" column="67" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
+            <state vertical-scroll-proportion="0.7390181">
+              <caret line="16" column="61" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
               <folding />
             </state>
           </provider>
@@ -535,7 +534,13 @@
       <option name="project" value="LOCAL" />
       <updated>1508420177460</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="changed to  ----">
+      <created>1508494807623</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1508494807623</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -573,7 +578,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="removing unwanted files" />
     <MESSAGE value="commit 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 3" />
+    <MESSAGE value="changed to  ----" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed to  ----" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -673,8 +679,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/controller/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31782946">
-          <caret line="16" column="67" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
+        <state vertical-scroll-proportion="0.7390181">
+          <caret line="16" column="61" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
           <folding />
         </state>
       </provider>

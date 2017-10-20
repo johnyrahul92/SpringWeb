@@ -14,7 +14,7 @@ public class TestController {
 
     @RequestMapping(value = "/testPage", method = RequestMethod.GET)
     public String printTestPage(ModelMap model) {
-        model.addAttribute("Message", "This is Rahul Johny --------");
+        model.addAttribute("Message", "This is Talish george");
 
         return "testPage";
     }
